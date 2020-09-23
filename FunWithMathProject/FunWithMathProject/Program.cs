@@ -8,7 +8,11 @@ namespace FunWithMathProject {
 			for (int i = 0; i < 5; i++) {
 				hold = hold + numbers[i];
 			}
+
+			int avg;
+			avg = hold / 5;
 			Console.WriteLine(hold);
+			Console.WriteLine(avg);
 		}
 	}
 }
