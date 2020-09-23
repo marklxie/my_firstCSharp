@@ -1,0 +1,13 @@
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\bin\Debug\netcoreapp3.1\FunWithMathProject.exe
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\bin\Debug\netcoreapp3.1\FunWithMathProject.deps.json
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\bin\Debug\netcoreapp3.1\FunWithMathProject.runtimeconfig.json
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\bin\Debug\netcoreapp3.1\FunWithMathProject.runtimeconfig.dev.json
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\bin\Debug\netcoreapp3.1\FunWithMathProject.dll
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\bin\Debug\netcoreapp3.1\FunWithMathProject.pdb
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\obj\Debug\netcoreapp3.1\FunWithMathProject.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\obj\Debug\netcoreapp3.1\FunWithMathProject.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\obj\Debug\netcoreapp3.1\FunWithMathProject.AssemblyInfo.cs
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\obj\Debug\netcoreapp3.1\FunWithMathProject.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\obj\Debug\netcoreapp3.1\FunWithMathProject.dll
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\obj\Debug\netcoreapp3.1\FunWithMathProject.pdb
+C:\repos\my_firstCSharp\FunWithMathProject\FunWithMathProject\obj\Debug\netcoreapp3.1\FunWithMathProject.genruntimeconfig.cache
