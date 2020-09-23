@@ -4,8 +4,8 @@ namespace HelloWorldProject {
 	class Program {
 		public static void Main() {
 			Console.WriteLine("Hello World!");
-
-			int v = Factorial.Factor(5);
+			Console.WriteLine("My name is Mark Xie");
+			Console.WriteLine("I like Git.");
 		}
 	}
 	class Factorial {
