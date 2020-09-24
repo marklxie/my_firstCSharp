@@ -10,9 +10,13 @@ namespace FunWithMathProject {
 			}
 
 			int avg;
+			int remainder;
 			avg = hold / 5;
+			remainder = hold / avg;
 			Console.WriteLine(hold);
 			Console.WriteLine(avg);
+			Console.WriteLine(remainder);
+
 		}
 	}
 }
