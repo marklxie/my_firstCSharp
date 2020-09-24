@@ -1,0 +1,13 @@
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.exe
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.deps.json
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.runtimeconfig.json
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.runtimeconfig.dev.json
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.dll
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.pdb
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.AssemblyInfo.cs
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.dll
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.pdb
+C:\repos\my_firstCSharp\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.genruntimeconfig.cache
