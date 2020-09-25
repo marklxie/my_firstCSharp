@@ -1,0 +1,13 @@
+C:\repos\my_firstCSharp\WhileExample\WhileExample\bin\Debug\netcoreapp3.1\WhileExample.exe
+C:\repos\my_firstCSharp\WhileExample\WhileExample\bin\Debug\netcoreapp3.1\WhileExample.deps.json
+C:\repos\my_firstCSharp\WhileExample\WhileExample\bin\Debug\netcoreapp3.1\WhileExample.runtimeconfig.json
+C:\repos\my_firstCSharp\WhileExample\WhileExample\bin\Debug\netcoreapp3.1\WhileExample.runtimeconfig.dev.json
+C:\repos\my_firstCSharp\WhileExample\WhileExample\bin\Debug\netcoreapp3.1\WhileExample.dll
+C:\repos\my_firstCSharp\WhileExample\WhileExample\bin\Debug\netcoreapp3.1\WhileExample.pdb
+C:\repos\my_firstCSharp\WhileExample\WhileExample\obj\Debug\netcoreapp3.1\WhileExample.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\WhileExample\WhileExample\obj\Debug\netcoreapp3.1\WhileExample.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\WhileExample\WhileExample\obj\Debug\netcoreapp3.1\WhileExample.AssemblyInfo.cs
+C:\repos\my_firstCSharp\WhileExample\WhileExample\obj\Debug\netcoreapp3.1\WhileExample.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\WhileExample\WhileExample\obj\Debug\netcoreapp3.1\WhileExample.dll
+C:\repos\my_firstCSharp\WhileExample\WhileExample\obj\Debug\netcoreapp3.1\WhileExample.pdb
+C:\repos\my_firstCSharp\WhileExample\WhileExample\obj\Debug\netcoreapp3.1\WhileExample.genruntimeconfig.cache
