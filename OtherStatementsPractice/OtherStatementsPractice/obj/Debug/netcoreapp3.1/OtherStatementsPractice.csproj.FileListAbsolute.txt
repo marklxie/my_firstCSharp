@@ -1,0 +1,13 @@
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\bin\Debug\netcoreapp3.1\OtherStatementsPractice.exe
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\bin\Debug\netcoreapp3.1\OtherStatementsPractice.deps.json
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\bin\Debug\netcoreapp3.1\OtherStatementsPractice.runtimeconfig.json
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\bin\Debug\netcoreapp3.1\OtherStatementsPractice.runtimeconfig.dev.json
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\bin\Debug\netcoreapp3.1\OtherStatementsPractice.dll
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\bin\Debug\netcoreapp3.1\OtherStatementsPractice.pdb
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\obj\Debug\netcoreapp3.1\OtherStatementsPractice.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\obj\Debug\netcoreapp3.1\OtherStatementsPractice.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\obj\Debug\netcoreapp3.1\OtherStatementsPractice.AssemblyInfo.cs
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\obj\Debug\netcoreapp3.1\OtherStatementsPractice.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\obj\Debug\netcoreapp3.1\OtherStatementsPractice.dll
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\obj\Debug\netcoreapp3.1\OtherStatementsPractice.pdb
+C:\repos\my_firstCSharp\OtherStatementsPractice\OtherStatementsPractice\obj\Debug\netcoreapp3.1\OtherStatementsPractice.genruntimeconfig.cache
