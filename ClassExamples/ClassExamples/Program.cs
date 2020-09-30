@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace ClassExamples {
 	class Program {
 		static void Main(string[] args) {
@@ -17,6 +18,22 @@ namespace ClassExamples {
 			student2.FavNumber = 3;
 
 			student2.Print();*/
+
+
+			var cls1 = new Class("English", 101, null);
+			Console.WriteLine($"{cls1.Id}");
+			var cls2 = new Class("Basket Weaving", 901, null);
+			Console.WriteLine($"{cls2.Id}");
+			cls1.Print();
+			cls2.Print();
+
+
+
+
+
+
+
+
 
 			var business = new Major();
 			business.Id = 1;
@@ -44,7 +61,10 @@ namespace ClassExamples {
 			student1.Major = business;
 			Console.WriteLine(student1.FullName());
 
-			Console.WriteLine($"Name is {student1.FullName()} majors in {student1.Major.Description}"); 
+			Console.WriteLine($"Name is {student1.FullName()} majors in {student1.Major.Description}");
+
+			Student student2 = new Student(2, "Nash", "Mole", 1200, 3.0, 2);
+			
 
 		}
 	}

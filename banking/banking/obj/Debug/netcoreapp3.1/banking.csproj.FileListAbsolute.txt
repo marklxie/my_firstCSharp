@@ -1,0 +1,13 @@
+C:\repos\my_firstCSharp\banking\banking\bin\Debug\netcoreapp3.1\banking.exe
+C:\repos\my_firstCSharp\banking\banking\bin\Debug\netcoreapp3.1\banking.deps.json
+C:\repos\my_firstCSharp\banking\banking\bin\Debug\netcoreapp3.1\banking.runtimeconfig.json
+C:\repos\my_firstCSharp\banking\banking\bin\Debug\netcoreapp3.1\banking.runtimeconfig.dev.json
+C:\repos\my_firstCSharp\banking\banking\bin\Debug\netcoreapp3.1\banking.dll
+C:\repos\my_firstCSharp\banking\banking\bin\Debug\netcoreapp3.1\banking.pdb
+C:\repos\my_firstCSharp\banking\banking\obj\Debug\netcoreapp3.1\banking.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\banking\banking\obj\Debug\netcoreapp3.1\banking.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\banking\banking\obj\Debug\netcoreapp3.1\banking.AssemblyInfo.cs
+C:\repos\my_firstCSharp\banking\banking\obj\Debug\netcoreapp3.1\banking.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\banking\banking\obj\Debug\netcoreapp3.1\banking.dll
+C:\repos\my_firstCSharp\banking\banking\obj\Debug\netcoreapp3.1\banking.pdb
+C:\repos\my_firstCSharp\banking\banking\obj\Debug\netcoreapp3.1\banking.genruntimeconfig.cache
