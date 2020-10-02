@@ -1,0 +1,13 @@
+C:\repos\my_firstCSharp\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.AssemblyInfo.cs
+C:\repos\my_firstCSharp\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.exe
+C:\repos\my_firstCSharp\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.deps.json
+C:\repos\my_firstCSharp\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.runtimeconfig.json
+C:\repos\my_firstCSharp\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.runtimeconfig.dev.json
+C:\repos\my_firstCSharp\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.dll
+C:\repos\my_firstCSharp\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.pdb
+C:\repos\my_firstCSharp\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.dll
+C:\repos\my_firstCSharp\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.pdb
+C:\repos\my_firstCSharp\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.genruntimeconfig.cache
