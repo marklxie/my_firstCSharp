@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace OOP_Practice {
-	class Square : Rectangle {
+	class Square : Rectangle, IGeometricShape {
 
 		public Square() { }
 		public Square(uint side1) : base(side1, side1) {

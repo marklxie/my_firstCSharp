@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace OOP_Practice {
-	class Rectangle : Quadrilaterial {
+	class Rectangle : Quadrilaterial, IGeometricShape {
 		private bool IsRectangle() {
 			if(side1 != side3 || side2 != side4) {
 				return false;

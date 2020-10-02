@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace OOP_Practice {
 	class Program {
@@ -28,6 +29,19 @@ namespace OOP_Practice {
 
 			foreach(Quadrilaterial shape in collection) {
 				Console.WriteLine($"The shape is {shape.WhatAmI()}.");
+			}
+			//Working with Interfaces
+			var geoShapes = new IGeometricShape[]{
+				new Circle(1), new Circle(2), new Rectangle(3,7), new Square(5)
+			};
+
+			var geoShapes2 = new IGeometricShape[2];
+			geoShapes2[0] = new Circle(3);
+			geoShapes2[1] = new Circle(4);
+			geoShapes2.Prepend(new Circle(5));
+
+			foreach(var shape in geoShapes) {
+				Console.WriteLine($"The Perimiter is {shape.Perimeter()}. The area is {shape.Area()}");
 			}
 
 			var square = rect1 as Square;
