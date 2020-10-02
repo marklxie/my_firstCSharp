@@ -3,6 +3,21 @@
 namespace banking {
 	class Program {
 		static void Main(string[] args) {
+
+			var sav1 = new Saving("My Savings");
+			var sav2 = new Saving(.12, "New Account");
+
+			sav2.Deposit(1000);
+			sav2.print();
+			sav2.PayInterest(1);
+			sav2.print();
+
+			var sav3 = new SavingComp(0.12, "My Composite Savings");
+
+			sav3.Print();
+			SavingComp.Transfer(500, sav2, sav3);
+			sav3.Print();
+
 			var acct1 = new Account();
 			acct1.print();
 			var acct2 = new Account("My checking");

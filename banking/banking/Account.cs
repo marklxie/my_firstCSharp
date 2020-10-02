@@ -8,7 +8,7 @@ using Microsoft.VisualBasic.CompilerServices;
 namespace banking {
 	class Account {
 		private static int NextId = 1;
-		private bool CheckAmountGreaterThanZero(double amount) {
+		protected bool CheckAmountGreaterThanZero(double amount) {
 			bool GTZ = true;
 			if(amount <= 0) {
 				throw new Exception("Amount must be greater than 0 dude");
@@ -16,7 +16,7 @@ namespace banking {
 			}
 			return GTZ;
 		}
-		private void SetBalance(double FixedBalance) { this.Balance = FixedBalance; }
+		protected void SetBalance(double FixedBalance) { this.Balance = FixedBalance; }
 		public static bool Transfer(double amount, Account FromAccount, Account ToAccount) {
 			
 			if(amount <= 0) {
