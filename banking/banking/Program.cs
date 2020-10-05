@@ -1,4 +1,5 @@
 ﻿using System;
+using banking.Exceptions;
 
 namespace banking {
 	class Program {
@@ -24,12 +25,16 @@ namespace banking {
 			acct2.print();
 			acct2.Deposit(1000);
 			acct2.print();
-			acct2.Withdraw(50);
-			acct2.print();
 			try {
+				acct2.Withdraw(5000);
+				acct2.print();
 				acct2.Withdraw(-200);
 				acct2.print();
 				acct2.Deposit(-200);
+				acct2.print();
+			}
+			catch(InsufficientFundsException ex) {
+				Console.WriteLine($"Insufficient Funds {ex.AccountId}: Account Withdrawn is {ex.AmountToWithdraw}. The balance is {ex.Balance}");
 			}
 			catch(DivideByZeroException) {
 				Console.WriteLine("Attempted to divide by zero");

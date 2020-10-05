@@ -4,6 +4,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices.ComTypes;
 using System.Text;
 using Microsoft.VisualBasic.CompilerServices;
+using banking.Exceptions;
 
 namespace banking {
 	class Account {
@@ -68,7 +69,12 @@ namespace banking {
 				Balance -= amount;
 			}
 			else {
-				Console.WriteLine("The amount specified is greater than the balance");	
+				var dbz = new DivideByZeroException("This is the inner exception");
+				var isFex = new InsufficientFundsException("Not sufficient funds", dbz);
+				isFex.AccountId = this.Id;
+				isFex.AmountToWithdraw = amount;
+				isFex.Balance = this.Balance;
+				throw isFex;
 			}
 			return Balance;
 		}

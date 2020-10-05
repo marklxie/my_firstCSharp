@@ -1,0 +1,13 @@
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\bin\Debug\netcoreapp3.1\ExceptionExample.exe
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\bin\Debug\netcoreapp3.1\ExceptionExample.deps.json
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\bin\Debug\netcoreapp3.1\ExceptionExample.runtimeconfig.json
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\bin\Debug\netcoreapp3.1\ExceptionExample.runtimeconfig.dev.json
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\bin\Debug\netcoreapp3.1\ExceptionExample.dll
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\bin\Debug\netcoreapp3.1\ExceptionExample.pdb
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.AssemblyInfo.cs
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.dll
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.pdb
+C:\repos\my_firstCSharp\ExceptionExample\ExceptionExample\obj\Debug\netcoreapp3.1\ExceptionExample.genruntimeconfig.cache
