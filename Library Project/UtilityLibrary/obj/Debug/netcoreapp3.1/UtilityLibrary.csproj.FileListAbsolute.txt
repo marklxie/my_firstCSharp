@@ -1,0 +1,9 @@
+C:\repos\my_firstCSharp\Library Project\UtilityLibrary\bin\Debug\netcoreapp3.1\UtilityLibrary.deps.json
+C:\repos\my_firstCSharp\Library Project\UtilityLibrary\bin\Debug\netcoreapp3.1\UtilityLibrary.dll
+C:\repos\my_firstCSharp\Library Project\UtilityLibrary\bin\Debug\netcoreapp3.1\UtilityLibrary.pdb
+C:\repos\my_firstCSharp\Library Project\UtilityLibrary\obj\Debug\netcoreapp3.1\UtilityLibrary.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\Library Project\UtilityLibrary\obj\Debug\netcoreapp3.1\UtilityLibrary.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\Library Project\UtilityLibrary\obj\Debug\netcoreapp3.1\UtilityLibrary.AssemblyInfo.cs
+C:\repos\my_firstCSharp\Library Project\UtilityLibrary\obj\Debug\netcoreapp3.1\UtilityLibrary.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\Library Project\UtilityLibrary\obj\Debug\netcoreapp3.1\UtilityLibrary.dll
+C:\repos\my_firstCSharp\Library Project\UtilityLibrary\obj\Debug\netcoreapp3.1\UtilityLibrary.pdb

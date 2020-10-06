@@ -1,0 +1,18 @@
+C:\repos\my_firstCSharp\Library Project\Library Project\bin\Debug\netcoreapp3.1\Library Project.exe
+C:\repos\my_firstCSharp\Library Project\Library Project\bin\Debug\netcoreapp3.1\Library Project.deps.json
+C:\repos\my_firstCSharp\Library Project\Library Project\bin\Debug\netcoreapp3.1\Library Project.runtimeconfig.json
+C:\repos\my_firstCSharp\Library Project\Library Project\bin\Debug\netcoreapp3.1\Library Project.runtimeconfig.dev.json
+C:\repos\my_firstCSharp\Library Project\Library Project\bin\Debug\netcoreapp3.1\Library Project.dll
+C:\repos\my_firstCSharp\Library Project\Library Project\bin\Debug\netcoreapp3.1\Library Project.pdb
+C:\repos\my_firstCSharp\Library Project\Library Project\bin\Debug\netcoreapp3.1\SharedLibrary.dll
+C:\repos\my_firstCSharp\Library Project\Library Project\bin\Debug\netcoreapp3.1\UtilityLibrary.dll
+C:\repos\my_firstCSharp\Library Project\Library Project\bin\Debug\netcoreapp3.1\SharedLibrary.pdb
+C:\repos\my_firstCSharp\Library Project\Library Project\bin\Debug\netcoreapp3.1\UtilityLibrary.pdb
+C:\repos\my_firstCSharp\Library Project\Library Project\obj\Debug\netcoreapp3.1\Library Project.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\Library Project\Library Project\obj\Debug\netcoreapp3.1\Library Project.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\Library Project\Library Project\obj\Debug\netcoreapp3.1\Library Project.AssemblyInfo.cs
+C:\repos\my_firstCSharp\Library Project\Library Project\obj\Debug\netcoreapp3.1\Library Project.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\Library Project\Library Project\obj\Debug\netcoreapp3.1\Library Project.csproj.CopyComplete
+C:\repos\my_firstCSharp\Library Project\Library Project\obj\Debug\netcoreapp3.1\Library Project.dll
+C:\repos\my_firstCSharp\Library Project\Library Project\obj\Debug\netcoreapp3.1\Library Project.pdb
+C:\repos\my_firstCSharp\Library Project\Library Project\obj\Debug\netcoreapp3.1\Library Project.genruntimeconfig.cache

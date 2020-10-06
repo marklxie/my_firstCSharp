@@ -1,0 +1,13 @@
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\bin\Debug\netcoreapp3.1\Generics_Intro.exe
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\bin\Debug\netcoreapp3.1\Generics_Intro.deps.json
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\bin\Debug\netcoreapp3.1\Generics_Intro.runtimeconfig.json
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\bin\Debug\netcoreapp3.1\Generics_Intro.runtimeconfig.dev.json
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\bin\Debug\netcoreapp3.1\Generics_Intro.dll
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\bin\Debug\netcoreapp3.1\Generics_Intro.pdb
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\obj\Debug\netcoreapp3.1\Generics_Intro.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\obj\Debug\netcoreapp3.1\Generics_Intro.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\obj\Debug\netcoreapp3.1\Generics_Intro.AssemblyInfo.cs
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\obj\Debug\netcoreapp3.1\Generics_Intro.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\obj\Debug\netcoreapp3.1\Generics_Intro.dll
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\obj\Debug\netcoreapp3.1\Generics_Intro.pdb
+C:\repos\my_firstCSharp\Generics_Intro\Generics_Intro\obj\Debug\netcoreapp3.1\Generics_Intro.genruntimeconfig.cache

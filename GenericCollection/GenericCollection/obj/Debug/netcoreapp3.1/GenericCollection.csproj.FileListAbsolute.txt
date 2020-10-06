@@ -1,0 +1,13 @@
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.exe
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.deps.json
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.runtimeconfig.json
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.runtimeconfig.dev.json
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.dll
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.pdb
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.AssemblyInfo.cs
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.dll
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.pdb
+C:\repos\my_firstCSharp\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.genruntimeconfig.cache
