@@ -1,0 +1,9 @@
+C:\repos\my_firstCSharp\SqlServerCSharpLib\bin\Debug\netcoreapp3.1\SqlServerCSharpLib.deps.json
+C:\repos\my_firstCSharp\SqlServerCSharpLib\bin\Debug\netcoreapp3.1\SqlServerCSharpLib.dll
+C:\repos\my_firstCSharp\SqlServerCSharpLib\obj\Debug\netcoreapp3.1\SqlServerCSharpLib.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\SqlServerCSharpLib\obj\Debug\netcoreapp3.1\SqlServerCSharpLib.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\SqlServerCSharpLib\obj\Debug\netcoreapp3.1\SqlServerCSharpLib.AssemblyInfo.cs
+C:\repos\my_firstCSharp\SqlServerCSharpLib\bin\Debug\netcoreapp3.1\SqlServerCSharpLib.pdb
+C:\repos\my_firstCSharp\SqlServerCSharpLib\obj\Debug\netcoreapp3.1\SqlServerCSharpLib.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\SqlServerCSharpLib\obj\Debug\netcoreapp3.1\SqlServerCSharpLib.dll
+C:\repos\my_firstCSharp\SqlServerCSharpLib\obj\Debug\netcoreapp3.1\SqlServerCSharpLib.pdb

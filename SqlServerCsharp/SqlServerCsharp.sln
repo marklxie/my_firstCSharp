@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlServerCsharp", "SqlServerCsharp.csproj", "{74ADCFCC-B954-4983-AA02-DEDFD9587058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlServerCSharpLib", "..\SqlServerCSharpLib\SqlServerCSharpLib.csproj", "{3027597C-BF7C-42EB-8AEE-176772330F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74ADCFCC-B954-4983-AA02-DEDFD9587058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74ADCFCC-B954-4983-AA02-DEDFD9587058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74ADCFCC-B954-4983-AA02-DEDFD9587058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74ADCFCC-B954-4983-AA02-DEDFD9587058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3027597C-BF7C-42EB-8AEE-176772330F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3027597C-BF7C-42EB-8AEE-176772330F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3027597C-BF7C-42EB-8AEE-176772330F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3027597C-BF7C-42EB-8AEE-176772330F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB977DE1-40BB-4CFB-ACEE-EA5D69CF2C57}
+	EndGlobalSection
+EndGlobal
