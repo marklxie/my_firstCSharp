@@ -1,0 +1,16 @@
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\bin\Debug\netcoreapp3.1\Linq Practice.exe
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\bin\Debug\netcoreapp3.1\Linq Practice.deps.json
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\bin\Debug\netcoreapp3.1\Linq Practice.runtimeconfig.json
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\bin\Debug\netcoreapp3.1\Linq Practice.runtimeconfig.dev.json
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\bin\Debug\netcoreapp3.1\Linq Practice.dll
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\bin\Debug\netcoreapp3.1\Linq Practice.pdb
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\bin\Debug\netcoreapp3.1\LinqLib.dll
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\bin\Debug\netcoreapp3.1\LinqLib.pdb
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\obj\Debug\netcoreapp3.1\Linq Practice.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\obj\Debug\netcoreapp3.1\Linq Practice.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\obj\Debug\netcoreapp3.1\Linq Practice.AssemblyInfo.cs
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\obj\Debug\netcoreapp3.1\Linq Practice.csproj.CoreCompileInputs.cache
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\obj\Debug\netcoreapp3.1\Linq Practice.csproj.CopyComplete
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\obj\Debug\netcoreapp3.1\Linq Practice.dll
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\obj\Debug\netcoreapp3.1\Linq Practice.pdb
+C:\repos\my_firstCSharp\Linq Practice\Linq Practice\obj\Debug\netcoreapp3.1\Linq Practice.genruntimeconfig.cache

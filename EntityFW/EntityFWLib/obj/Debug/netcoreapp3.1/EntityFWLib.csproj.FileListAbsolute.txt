@@ -1,0 +1,12 @@
+C:\repos\my_firstCSharp\EntityFW\EntityFWLib\bin\Debug\netcoreapp3.1\EntityFWLib.deps.json
+C:\repos\my_firstCSharp\EntityFW\EntityFWLib\bin\Debug\netcoreapp3.1\EntityFWLib.dll
+C:\repos\my_firstCSharp\EntityFW\EntityFWLib\obj\Debug\netcoreapp3.1\EntityFWLib.csprojAssemblyReference.cache
+C:\repos\my_firstCSharp\EntityFW\EntityFWLib\obj\Debug\netcoreapp3.1\EntityFWLib.AssemblyInfoInputs.cache
+C:\repos\my_firstCSharp\EntityFW\EntityFWLib\obj\Debug\netcoreapp3.1\EntityFWLib.AssemblyInfo.cs
+C:\repos\my_firstCSharp\EntityFW\EntityFWLib\bin\Debug\netcoreapp3.1\EntityFWLib.runtimeconfig.json
+C:\repos\my_firstCSharp\EntityFW\EntityFWLib\bin\Debug\netcoreapp3.1\EntityFWLib.runtimeconfig.dev.json
+C:\repos\my_firstCSharp\EntityFW\EntityFWLib\obj\Debug\netcoreapp3.1\EntityFWLib.genruntimeconfig.cache
+C:\repos\my_firstCSharp\EntityFW\EntityFWLib\bin\Debug\netcoreapp3.1\EntityFWLib.pdb
+C:\repos\my_firstCSharp\EntityFW\EntityFWLib\obj\Debug\netcoreapp3.1\EntityFWLib.dll
+C:\repos\my_firstCSharp\EntityFW\EntityFWLib\obj\Debug\netcoreapp3.1\EntityFWLib.pdb
+C:\repos\my_firstCSharp\EntityFW\EntityFWLib\obj\Debug\netcoreapp3.1\EntityFWLib.csproj.CoreCompileInputs.cache

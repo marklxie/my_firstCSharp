@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LinqLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LinqLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LinqLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinqLib/1.0.0": {
+      "type": "project",
+      "path": "../LinqLib/LinqLib.csproj",
+      "msbuildProject": "../LinqLib/LinqLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "LinqLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MX\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\repos\\my_firstCSharp\\Linq Practice\\Linq Practice\\Linq Practice.csproj",
+      "projectName": "Linq Practice",
+      "projectPath": "C:\\repos\\my_firstCSharp\\Linq Practice\\Linq Practice\\Linq Practice.csproj",
+      "packagesPath": "C:\\Users\\MX\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\my_firstCSharp\\Linq Practice\\Linq Practice\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\repos\\my_firstCSharp\\Linq Practice\\LinqLib\\LinqLib.csproj": {
+              "projectPath": "C:\\repos\\my_firstCSharp\\Linq Practice\\LinqLib\\LinqLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
